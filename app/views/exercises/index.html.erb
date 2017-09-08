@@ -1,0 +1,18 @@
+<div class="container">
+  <h2 class="page-title">Exercises</h2>
+
+  <div class="actions">
+    <%= link_to 'Start a workout', '#' %>
+    <%= link_to 'Add new exercise', new_exercise_path %>
+  </div>
+
+  <% if @exercises.present? %>
+    <% @exercises.each do |exercise| %>
+      <div class="exercise">
+        <%= link_to exercise.title, exercise_path(exercise) %>
+      </div>
+    <% end %>
+  <% else %>
+    <p>There are no exercises available.</p>
+  <% end %>
+</div>

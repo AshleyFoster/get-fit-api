@@ -1,0 +1,25 @@
+body {
+  background: #fff;
+}
+
+header {
+  background: $secondary-background-color;
+  padding: 16px;
+  margin-left: 3px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #F5F5F5;
+
+  .logo {
+    color: #238AD2;
+    margin: 0;
+
+    span {
+      color: #C889B6;
+      font-weight: 500;
+    }
+  }
+}
+
+.page-title {
+  margin: 20px 0;
+}

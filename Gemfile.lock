@@ -290,7 +290,7 @@ DEPENDENCIES
   jquery-rails
   launchy
   listen
-  neat (~> 2.0.0.beta.1)
+  neat (~> 2.0.0)
   normalize-rails (~> 3.0.0)
   pg
   pry-byebug

@@ -1,0 +1,5 @@
+<div class="container">
+  <h2 class="show-title"><%= @exercise.title %></h2>
+  <p class="muscle-group"><%= @exercise.muscle_group.gsub!(/[^A-Za-z]/, ' ') %></p>
+  <p class="description"><%= @exercise.description %></p>
+</div>
