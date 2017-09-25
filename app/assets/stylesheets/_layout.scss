@@ -8,6 +8,8 @@ header {
   margin-left: 3px;
   margin-bottom: 8px;
   border-bottom: 1px solid #F5F5F5;
+  display: flex;
+  justify-content: space-between;
 
   .logo {
     color: #238AD2;
@@ -16,6 +18,20 @@ header {
     span {
       color: #C889B6;
       font-weight: 500;
+    }
+  }
+  .hr-right {
+    outline: none;
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:focus {
+        outline: none;
+      }
     }
   }
 }
