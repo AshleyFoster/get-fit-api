@@ -23,7 +23,7 @@ module Api::V1
     private
 
     def exercise_params
-      params.require(:exercise).permit(:title, :description, muscle_group: [])
+      params.require(:exercise).permit(:title, :description, :muscle_group)
     end
   end
 end
