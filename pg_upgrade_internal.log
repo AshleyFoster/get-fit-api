@@ -1,0 +1,55 @@
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 11:58:37 2018
+-----------------------------------------------------------------
+
+could not open version file: /usr/local/var/postgres10.1/PG_VERSION
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 11:59:09 2018
+-----------------------------------------------------------------
+
+could not open version file: /usr/local/var/postgres10.1/PG_VERSION
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 11:59:52 2018
+-----------------------------------------------------------------
+
+could not get pg_ctl version data using "/usr/local/Cellar/postgresql/10.1.0/bin/pg_ctl" --version: No such file or directory
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 12:00:09 2018
+-----------------------------------------------------------------
+
+could not open version file: /usr/local/var/postgres10.1/PG_VERSION
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 12:04:16 2018
+-----------------------------------------------------------------
+
+Performing Consistency Checks
+-----------------------------
+Checking cluster versions                                   Old cluster data and binary directories are from different major versions.
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 12:04:33 2018
+-----------------------------------------------------------------
+
+Performing Consistency Checks
+-----------------------------
+Checking cluster versions                                   Old cluster data and binary directories are from different major versions.
+Running in verbose mode
+
+-----------------------------------------------------------------
+  pg_upgrade run on Mon Feb  5 12:05:07 2018
+-----------------------------------------------------------------
+
+Performing Consistency Checks
+-----------------------------
+Checking cluster versions                                   Old cluster data and binary directories are from different major versions.

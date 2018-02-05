@@ -4,7 +4,7 @@ exercises = [
     'Grab some dumbbells (or household objects!) and briskly walk 
     up and down the stairway while simultaneously doing bicep curls to work the
     whole body.',
-    'Full-Body'
+    'Full Body'
   ],
 
   [
@@ -13,7 +13,7 @@ exercises = [
     hands forward, staying on the toes but not moving them forward. Next,
     gradually walk the hands backwards to the starting position, maintain 
     stability and balance.',
-    'Full-Body'
+    'Full Body'
   ],
 
 
@@ -24,7 +24,7 @@ exercises = [
     feet back to a push-up position, complete one push-up, then immediately 
     return the feet to the squat position. Leap up as high as possible before 
     squatting and moving back into the push-up position.',
-    'Full-Body'
+    'Full Body'
   ],
 
   [
@@ -33,7 +33,7 @@ exercises = [
     Extend the legs behind the body and rise up on the toes. Keeping the back 
     straight, tighten the core and hold the position for 30-60 seconds (or as 
     long as you can).',
-    'Full-Body'
+    'Full Body'
   ],
 
   [
@@ -42,7 +42,7 @@ exercises = [
     lift up into a push-up position, with the back straight and the core engaged.
     Then move one arm at a time back into the plank position (forearms on the 
     ground). Repeat, alternating the arm that makes the first move.',
-    'Full-Body'
+    'Full Body'
   ],
 
   [
@@ -177,7 +177,7 @@ exercises = [
     distance, and tighten the core. Bend the elbows until the chest reaches the
     ground, and then push back up (make sure to keep the elbows tucked close to
     the body).',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -185,7 +185,7 @@ exercises = [
     'Start out in dolphin pose (think: down-dog with elbows on the
     floor). Lean forward, lowering the shoulders until the head is over the 
     hands. Pull up the arms and return to the starting position.',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -194,7 +194,7 @@ exercises = [
     one another. Slowly lift one arm a few inches off the floor, keeping it 
     straight without rotating the shoulders and keeping the head and torso still.
     Hold the position, then lower the arm back down, moving to the other arm.',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -203,7 +203,7 @@ exercises = [
     the core and kick both legs into the air with knees bent, reaching the feet
     back toward the glutes. Just try to land gently when reversing back to the 
     starting position.',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -212,7 +212,7 @@ exercises = [
     elbows at a 90-degree angle, doing an upside down push-up (so the head moves
     toward the floor and the legs remain against the wall).
     A spotter is recommended.',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -222,7 +222,7 @@ exercises = [
     close to the floor. Swoop the head and shoulders upward and lower the hips,
     keeping the knees off the ground. Reverse the move to come back to the 
     raised-hip position.',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -231,7 +231,7 @@ exercises = [
     front of the other and the front knee slightly bent. With palms facing each
     other and the abs engaged, bend forward slightly from the waist and extend 
     arms out to the side, squeezing the shoulder blades. Repeat',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -239,7 +239,7 @@ exercises = [
     'Lie face down with arms and legs extended. Keeping the torso 
     as still as possible, simultaneously raise the arms and legs to form a small
     curve in the body. ',
-    'Chest-&-Back'
+    'Chest & Back'
   ],
 
   [
@@ -248,14 +248,14 @@ exercises = [
     slightly bent, and grab the edge of the elevated surface and straighten the
     arms. Bend them to a 90-degree angle, and straighten again while the heels 
     push towards the floor.',
-    'Shoulders-&-Arms'
+    'Shoulders & Arms'
   ],
 
   [
     'Diamond Push-Up',
     'Starting in a push-up position, shape your hands to make a 
     diamond (The thumbs and index fingers should touch).',
-    'Shoulders-&-Arms'
+    'Shoulders & Arms'
   ],
 
   [
@@ -263,14 +263,14 @@ exercises = [
     'Starting with feet hip-width apart and knees bent, keep the 
     elbows in and extend one arm forward and the other arm back. Hug the arms 
     back in and switch arms',
-    'Shoulders-&-Arms'
+    'Shoulders & Arms'
   ],
 
   [
     'Shoulder Stabilization Series (I, Y, T, W O)',
     'Lie down on your stomach with arms extended overhead and palms
     facing each other. Move the arms into each letter formation.',
-    'Shoulders-&-Arms'
+    'Shoulders & Arms'
   ],
 
   [
@@ -279,7 +279,7 @@ exercises = [
     torso. Slowly make clockwise circles for about twenty to thirty seconds 
     (about one foot in diameter). Then reverse the movement, going 
     counter-clockwise.',
-    'Shoulders-&-Arms'
+    'Shoulders & Arms'
   ],
 
   [
